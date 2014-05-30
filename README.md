@@ -1,4 +1,4 @@
-test01
+Test01
 ======
 
-Firts GITrep to test some applications
+First GIT-rep to test some applications
